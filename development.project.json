@@ -1,0 +1,12 @@
+{
+  "name": "Gamma",
+  "tree": {
+	"$className": "DataModel",
+	"ReplicatedStorage" :{
+		"$className": "ReplicatedStorage",
+		"Gamma": {
+			"$path": "src"
+		}
+	}
+  }
+}
